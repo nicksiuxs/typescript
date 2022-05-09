@@ -1,0 +1,14 @@
+{
+  "name": "course-typescript",
+  "version": "1.0.0",
+  "description": "Este será la documentación del curso de Microsoft para compilar aplicaciones de JavaScript con Typescript [curso](https://docs.microsoft.com/es-es/learn/paths/build-javascript-applications-typescript/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
